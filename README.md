@@ -52,9 +52,6 @@ PhysHlth: 0
 Sex: 1
 Age: 45
 
-yaml
-Copy code
-
 **Predicted diagnosis:** `No Diabetes`
 
 ---
