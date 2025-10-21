@@ -84,10 +84,10 @@ Age: 45
 2. Open the notebook in https://colab.research.google.com/ (Google Colab) or Jupyter Notebook
 3. Run all cells to train the model, evaluate performance, and enter your own data for real-time prediction
 
-📈 Results
+📈 Results:
 The model achieved balanced predictive performance and interpretable feature importance, helping users understand which health factors most influence diabetes risk.
 
-👩‍💻 Author
+👩‍💻 Author:
 Amy Lee
 Data Science @ University of Michigan
 📧 Contact: amyllee@umich.edu
